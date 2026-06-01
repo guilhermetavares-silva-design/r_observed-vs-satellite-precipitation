@@ -1,7 +1,7 @@
 # =============================================================================
 # ANALISE DE ACURACIA: PRECIPITACAO OBSERVADA vs. SATELITE
-# Dados: CEAPLA (observados) x Satelite (CSV)
-# Rio Claro - SP | 1996-2025
+# TAVARES, G. Análise de acurácia: precipitação observada vs. satélite. Rio Claro, 2026. Disponível em: [https://github.com/guilhermetavares-silva-design/r_observed-vs-satellite-precipitation].
+# DOI: 10.5281/zenodo.20492424
 # =============================================================================
 
 # --- 1. PACOTES --------------------------------------------------------------
